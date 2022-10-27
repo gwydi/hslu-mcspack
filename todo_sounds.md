@@ -130,7 +130,6 @@
 - [ ] block/chest/close2.ogg
 - [ ] block/chest/close3.ogg
 - [ ] block/chest/open.ogg
-- [ ] block/conduit/short9.ogg
 - [ ] block/copper/break1.ogg
 - [ ] block/copper/break2.ogg
 - [ ] block/copper/break3.ogg
@@ -409,10 +408,10 @@
 - [ ] entity/witch/throw1.ogg
 - [ ] entity/witch/throw2.ogg
 - [ ] entity/witch/throw3.ogg
-- [!] event/raid/raidhorn_01.ogg
-- [!] event/raid/raidhorn_02.ogg
-- [!] event/raid/raidhorn_03.ogg
-- [!] event/raid/raidhorn_04.ogg
+- [ ] event/raid/raidhorn_01.ogg
+- [ ] event/raid/raidhorn_02.ogg
+- [ ] event/raid/raidhorn_03.ogg
+- [ ] event/raid/raidhorn_04.ogg
 - [ ] fire/fire.ogg
 - [ ] fire/ignite.ogg
 - [ ] item/armor/equip_diamond1.ogg
@@ -684,21 +683,6 @@
 - [ ] mob/endermen/scream3.ogg
 - [ ] mob/endermen/scream4.ogg
 - [ ] mob/endermen/stare.ogg
-- [ ] mob/evocation_illager/cast1.ogg
-- [ ] mob/evocation_illager/cast2.ogg
-- [ ] mob/evocation_illager/celebrate.ogg
-- [ ] mob/evocation_illager/death1.ogg
-- [ ] mob/evocation_illager/death2.ogg
-- [ ] mob/evocation_illager/fangs.ogg
-- [ ] mob/evocation_illager/hurt1.ogg
-- [ ] mob/evocation_illager/hurt2.ogg
-- [ ] mob/evocation_illager/idle1.ogg
-- [ ] mob/evocation_illager/idle2.ogg
-- [ ] mob/evocation_illager/idle3.ogg
-- [ ] mob/evocation_illager/idle4.ogg
-- [ ] mob/evocation_illager/prepare_attack1.ogg
-- [ ] mob/evocation_illager/prepare_attack2.ogg
-- [ ] mob/evocation_illager/prepare_summon.ogg
 - [ ] mob/evocation_illager/prepare_wololo.ogg
 - [ ] mob/fox/aggro1.ogg
 - [ ] mob/fox/aggro2.ogg
